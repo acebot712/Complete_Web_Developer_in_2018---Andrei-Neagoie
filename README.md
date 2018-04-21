@@ -9,7 +9,7 @@ Following softwares are recommended in order to execute the files:
 - **Apache XAMPP** for running PHP scripts locally and also for using phpMyAdmin for SQL section
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/asterdan712/Complete_Web_Developer_Course_in_2018---Andrei-Neagoie/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/asterdan712/Complete_Web_Developer_in_2018---Andrei-Neagoie/blob/master/LICENSE.md) file for details
 
 ## Author
 **ABHIJOY SARKAR**
